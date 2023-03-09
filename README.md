@@ -1,8 +1,6 @@
 # Cyplan-88
-Data science for urban systems
-
-This will be for my city planning 88 course. Using jupyter/colab to conduct network analysis. 
-
-In the main branch notice you will have access to all lecture materials(slides, labs, demos, etc.). 
-
-There will be corresponding branches for ech assignment, in which will be the datasets, assignment sheet, notebook, and the pdf of it
+The final assignment is very free formed, so I will begin brainstorming here:
+ 
+ 3/3/2023:
+    Thoughts are looking at locations with the most citations, and identify where to put new parking structures or add stops to public transport or other solutions.
+     
